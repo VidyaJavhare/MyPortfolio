@@ -39,6 +39,11 @@ body::before {
   vertical-align: middle;
 }
 
+.education-item h4 span {
+  font-size: 14px;
+  font-weight: normal;
+  color: #cccccc;
+}
 
 @media (min-width: 1024px) {
   body::before {
