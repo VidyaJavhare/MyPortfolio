@@ -26,6 +26,20 @@ body::before {
   height: 100vh;
 }
 
+.icon-box i {
+  color: #12d640;
+  margin-right: 6px;
+}
+
+.education-item i,
+.certification-list i {
+  color: #12d640;
+  margin-right: 8px;
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
